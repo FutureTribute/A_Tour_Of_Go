@@ -1,7 +1,7 @@
 # A_Tour_Of_Go
 
 ## flowcontrol
-- 8 exercise-loops-and-functions.go
+- 08 exercise-loops-and-functions.go
 
 ## moretypes
 - 18 exercise-slices.go
@@ -14,3 +14,7 @@
 - 22 exercise-reader.go
 - 23 exercise-rot-reader.go 
 - 25 exercise-images.go
+
+## concurrency
+- 08 exercise-equivalent-binary-trees.go
+- 10 exercise-web-crawler.go
