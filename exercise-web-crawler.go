@@ -1,6 +1,8 @@
 // concurrency/10
-// Even thought I looked up only half of a code at https://rmoff.net/2020/07/03/learning-golang-some-rough-notes-s01e10-concurrency-web-crawler/,
-// my end solution is no different from that one so credit goes there.
+// Even thought I 'stole' only half of a code at
+// https://rmoff.net/2020/07/03/learning-golang-some-rough-notes-s01e10-concurrency-web-crawler/
+// and before that read bunch of other hints and solutions,
+// in the end solution is no different from that one so credit goes there.
 
 package main
 
