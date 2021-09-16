@@ -1,14 +1,14 @@
-## A_Tour_Of_Go
+# A_Tour_Of_Go
 
-# flowcontrol
+## flowcontrol
 - 8 exercise-loops-and-functions.go
 
-# moretypes
+## moretypes
 - 18 exercise-slices.go
 - 23 exercise-maps.go
 - 26 exercise-fibonacci-closure.go
 
-# methods
+## methods
 - 18 exercise-stringer.go
 - 20 exercise-errors.go
 - 22 exercise-reader.go
